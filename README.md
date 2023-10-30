@@ -8,7 +8,7 @@ customers in the world of analytics and predictive analytics .Provide strategic 
 <div align="center" >
 <p>
 
-<h3 align="center">Bench Strength :/h3>
+<h3 align="center">Bench Strength </h3>
 <h3 align="center">SAP SAC , SAP HANA ,SAP S/4 HANA SAP BW on HANA , SAP BW/4 HANA , SAP DWC , MS Power BI and SAP BOBJ , SAC CPI/HCI , SAP Fiori .</h3>
 </p>
  <div ><h2>Frontend</h2>
