@@ -5,7 +5,7 @@ customers in the world of analytics and predictive analytics .Provide strategic 
 <p>
 Bench Strength :
 
-SAP SAC , SAP HANA ,SAP S/4 HANA SAP BW on HANA , SAP BW/4 HANA , SAP DWC , MS Power BI and SAP BOBJ , SAC CPI/HCI , SAP Fiori .
+<h3 align="center">SAP SAC , SAP HANA ,SAP S/4 HANA SAP BW on HANA , SAP BW/4 HANA , SAP DWC , MS Power BI and SAP BOBJ , SAC CPI/HCI , SAP Fiori .</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
