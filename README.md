@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/521912/screenshots/13911181/cmptr.gif)
+![MasterHead](https://www.accely.com/wp-content/uploads/2020/06/sap-hana.png)
 <h1 align="center">Welcome to RG Technology</h1>
 <h3 align="center">Aim to develop business software ( SAP and non-SAP) and simplify consulting world for partners and
 customers in the world of analytics and predictive analytics .Provide strategic staffing solutions offsite/Onsite project implementation IT solution provider .</h3>
