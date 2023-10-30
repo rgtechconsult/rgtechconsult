@@ -1,4 +1,4 @@
-![MasterHead](https://www.mendix.com/wp-content/uploads/demo-webinar-digitize-complex-approval-workflows.png)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/53528f90e4b0768cad09d33b/1581585474497-TOVZC01X81WUWAPV6WNF/Artboard%2B3.jpg?format=1500w)
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Welcome to RG Technology</h3>
 <p>
