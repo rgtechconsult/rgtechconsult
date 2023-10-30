@@ -2,15 +2,15 @@
 <h1 align="center">Welcome to RG Technologies</h1>
 <h3 align="center">Aim to develop business software ( SAP and non-SAP) and simplify consulting world for partners and
 customers in the world of analytics and predictive analytics .Provide strategic staffing solutions offsite/Onsite project implementation IT solution provider .</h3>
-<p>
-Bench Strength :
 
+
+
+<div align="center" >
+<p>
+
+<h3 align="center">Bench Strength :/h3>
 <h3 align="center">SAP SAC , SAP HANA ,SAP S/4 HANA SAP BW on HANA , SAP BW/4 HANA , SAP DWC , MS Power BI and SAP BOBJ , SAC CPI/HCI , SAP Fiori .</h3>
 </p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<div align="center" >
  <div ><h2>Frontend</h2>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
